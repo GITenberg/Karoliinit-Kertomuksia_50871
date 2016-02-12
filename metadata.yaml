@@ -1,0 +1,36 @@
+_repo: Karoliinit-Kertomuksia_50871
+contributor:
+  translators:
+  - agent_name: Wallin, Väinö
+    gutenberg_agent_id: '46118'
+    url: http://www.gutenberg.org/2009/agents/46118
+  - agent_name: Ivalo, Santeri
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+creator:
+  author:
+    agent_name: Heidenstam, Verner von
+    aliases:
+    - Von Heidenstam, Verner
+    - Heidenstam, Karl Gustaf Verner von
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '5027'
+    url: http://www.gutenberg.org/2009/agents/5027
+    wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
+description: ''
+gutenberg_issued: '2016-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50871'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Karoliinit
+
+  Kertomuksia'
+url: http://www.gutenberg.org/ebooks/50871
