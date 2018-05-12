@@ -1,4 +1,5 @@
 _repo: Karoliinit-Kertomuksia_50871
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Wallin, Väinö
@@ -10,6 +11,9 @@ contributor:
     gutenberg_agent_id: '31820'
     url: http://www.gutenberg.org/2009/agents/31820
     wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heidenstam, Verner von
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5027
     wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50871#Karoliinit-Kertomuksia
 gutenberg_issued: '2016-01-07'
 gutenberg_type: Text
 identifiers:
